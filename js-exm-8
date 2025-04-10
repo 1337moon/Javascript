@@ -1,0 +1,4 @@
+// javascript code
+let name = "Big Fan Sagor Vai";
+
+console.log(name.length);
