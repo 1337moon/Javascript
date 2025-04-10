@@ -1,0 +1,4 @@
+// javascript code
+let text = "I am a noob";
+
+console.log(text.charAt(text.length - 1));
