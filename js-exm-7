@@ -1,0 +1,4 @@
+// javascript code
+const numbers = [2, 3, 4, 5];
+
+console.log(numbers.indexOf(4));
