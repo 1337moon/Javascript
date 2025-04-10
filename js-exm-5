@@ -1,0 +1,6 @@
+// javascript code
+const x = 30;
+const y = 7;
+// const z = x % y;
+
+console.log(x % y);
