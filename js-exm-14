@@ -1,0 +1,4 @@
+// javascript code
+const cars = ["BMW", "Volvo", "Ford"];
+
+console.log(cars[0]);
