@@ -1,0 +1,6 @@
+// javascript code
+let a = 7;
+let b = 5;
+// let c = a - b;
+
+console.log("The Different is: ", (a - b));
