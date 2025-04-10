@@ -1,0 +1,6 @@
+// javascript code
+let m = 5;
+let n = 6;
+// let o = m * n;
+
+console.log(m * n);
