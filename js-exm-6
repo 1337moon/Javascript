@@ -1,0 +1,9 @@
+// javascript code
+const inputs = [2, 3, 4, 5];
+
+function myFunction(total, value) {
+    return total + value;
+}
+
+const sum = inputs.reduce(myFunction);
+console.log(sum);
