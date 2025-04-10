@@ -1,0 +1,9 @@
+// javascript code
+const numbers = [1, 2, 3, 4];
+const value = 3;
+
+if (numbers.includes(value)) {
+    console.log("value is in the array");
+}else{
+    console.log("value is not in the array");
+}   
