@@ -1,0 +1,4 @@
+// javascript code
+const text = ["paper", "rock", "scissor"];
+
+console.log(text.length);
