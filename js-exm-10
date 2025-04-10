@@ -1,0 +1,4 @@
+// javascript code
+let modu = "OI KIRE";
+
+console.log(modu.toLowerCase());
