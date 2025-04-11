@@ -1,0 +1,4 @@
+// javascript code
+let text = "The Dev Garden";
+
+console.log(text.replace(/\s+/g, ''));
