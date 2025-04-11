@@ -1,0 +1,4 @@
+// javascript code
+let number = 36;
+
+console.log(Math.sqrt(number));
