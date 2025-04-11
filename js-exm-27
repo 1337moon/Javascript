@@ -1,0 +1,5 @@
+// javascript code
+let sentence = "Hello, This Is Muhammad Moon";
+let wordCount = sentence.split(" ").length;
+
+console.log(wordCount);
