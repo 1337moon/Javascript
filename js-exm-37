@@ -1,0 +1,15 @@
+// javascript code
+function isOnlyLetters(str) {
+    for (let i = 0; i < str.length; i++) {
+        let char = str[i];
+        if (!((char >= 'A' && char <= 'Z') || (char >= 'a' && char <= 'z'))) {
+            return false;
+        }
+    }
+    return str.length > 0;
+}
+
+console.log(isOnlyLetters("MyNameIsMoon"));
+console.log(isOnlyLetters("I am a developer"));
+console.log(isOnlyLetters("I am !Pro"));
+console.log(isOnlyLetters(""));
