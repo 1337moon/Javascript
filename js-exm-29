@@ -1,0 +1,8 @@
+// javascript code
+const numbers = [1, 20, 9, 41, 10];
+
+function greaterThanTen(numbers) {
+    return numbers >= 10;
+}
+
+console.log(numbers.filter(greaterThanTen));
