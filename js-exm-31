@@ -1,0 +1,11 @@
+// javascript code
+const number = "12345";
+
+function getDigits(num) {
+    let digits = [];
+    for (let i = 0; i < num.length; i++) {
+        digits.push(num[i]);
+    }
+    return digits;
+}
+console.log(getDigits(number));
